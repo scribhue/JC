@@ -1,6 +1,6 @@
 
         // URL of the PDF to be loaded
-        var url = 'path/to/yourfile.pdf';
+        var url = 'path/Tstpdf/Test.pdf';
 
         // Asynchronous download of the PDF
         var pdfjsLib = window['pdfjs-dist/build/pdf'];
